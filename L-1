@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>小米商城登录</title>
+    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="js/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+</head>
+<body>
+    <p>Hello World!!!</p>
+</body>
+</html>
